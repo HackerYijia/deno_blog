@@ -7,7 +7,7 @@ blog({
   avatar: "https://deno-avatar.deno.dev/avatar/83a531.svg",
   avatarClass: "rounded-full",
   links: [
-    { title: "Discord", url: "dsc.gg/jnmc" },
+    { title: "Discord", url: "https://dsc.gg/jnmc" },
     { title: "GitHub", url: "https://github.com/HackerYijia" },
   ],
   lang: "zh",
